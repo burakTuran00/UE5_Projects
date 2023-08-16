@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5_Projects/UE_projects/WareHouse/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE5_Projects/UE_projects/WareHouse/Content/StarterContent/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
