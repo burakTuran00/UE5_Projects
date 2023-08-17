@@ -6125,3 +6125,120 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.17-13.08.32:600][433]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.17-13.08.32:600][433]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.17-13.08.32:619][434]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.08.17-13.13.29:480][522]LogDerivedDataCache: C:/Users/burak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.119 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1676 files in 2661 folders with total size 112 MiB.
+[2023.08.17-13.18.30:088][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.08.17-13.18.30:092][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE5_Projects/UE_projects/WareHouse/Saved/Autosaves/Game/MainMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.08.17-13.18.30:118][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainMap_Auto7
+[2023.08.17-13.18.30:118][423]LogSavePackage: Moving '../../../../../UE5_Projects/UE_projects/WareHouse/Saved/MainMap_Auto71D43279B4D1C4FFF4D2D0085043BD386.tmp' to '../../../../../UE5_Projects/UE_projects/WareHouse/Saved/Autosaves/Game/MainMap_Auto7.umap'
+[2023.08.17-13.18.30:130][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.065
+[2023.08.17-13.18.30:130][423]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2023.08.17-13.19.59:082][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.17-13.19.59:174][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE5_Projects/UE_projects/WareHouse/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.17-13.19.59:195][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.08.17-13.19.59:222][732]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.17-13.19.59:222][732]LogSavePackage: Moving '../../../../../UE5_Projects/UE_projects/WareHouse/Saved/MainMap28DE0BB2423F0FCA2EA1D8A3A837B661.tmp' to '../../../../../UE5_Projects/UE_projects/WareHouse/Content/MainMap.umap'
+[2023.08.17-13.19.59:232][732]LogFileHelpers: Saving map 'MainMap' took 0.059
+[2023.08.17-13.19.59:239][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1.65 sec)
+[2023.08.17-13.19.59:244][732]AssetCheck: New page: Asset Save: MainMap
+[2023.08.17-13.19.59:244][732]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.17-13.19.59:285][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.17-13.19.59:364][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE5_Projects/UE_projects/WareHouse/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.17-13.19.59:385][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.08.17-13.19.59:411][735]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.17-13.19.59:412][735]LogSavePackage: Moving '../../../../../UE5_Projects/UE_projects/WareHouse/Saved/MainMap1ABB12DC4A7851D0ACA83E8096A54F80.tmp' to '../../../../../UE5_Projects/UE_projects/WareHouse/Content/MainMap.umap'
+[2023.08.17-13.19.59:423][735]LogFileHelpers: Saving map 'MainMap' took 0.059
+[2023.08.17-13.19.59:429][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 1.79 sec)
+[2023.08.17-13.19.59:434][735]AssetCheck: New page: Asset Save: MainMap
+[2023.08.17-13.19.59:434][735]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.17-13.20.00:291][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.17-13.20.00:371][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE5_Projects/UE_projects/WareHouse/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.17-13.20.00:391][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.08.17-13.20.00:418][787]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.17-13.20.00:418][787]LogSavePackage: Moving '../../../../../UE5_Projects/UE_projects/WareHouse/Saved/MainMap9D41C83441F5C435CEC1E79CD72F34E9.tmp' to '../../../../../UE5_Projects/UE_projects/WareHouse/Content/MainMap.umap'
+[2023.08.17-13.20.00:428][787]LogFileHelpers: Saving map 'MainMap' took 0.058
+[2023.08.17-13.20.00:434][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 1.93 sec)
+[2023.08.17-13.20.00:440][787]AssetCheck: New page: Asset Save: MainMap
+[2023.08.17-13.20.00:440][787]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.17-13.20.01:714][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.17-13.20.01:785][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../UE5_Projects/UE_projects/WareHouse/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.17-13.20.01:805][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.08.17-13.20.01:832][855]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.17-13.20.01:832][855]LogSavePackage: Moving '../../../../../UE5_Projects/UE_projects/WareHouse/Saved/MainMap9356D2D24B253E0E1AF69F8937F44761.tmp' to '../../../../../UE5_Projects/UE_projects/WareHouse/Content/MainMap.umap'
+[2023.08.17-13.20.01:843][855]LogFileHelpers: Saving map 'MainMap' took 0.059
+[2023.08.17-13.20.01:850][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 2.07 sec)
+[2023.08.17-13.20.01:855][855]AssetCheck: New page: Asset Save: MainMap
+[2023.08.17-13.20.01:855][855]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.17-13.20.03:103][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.08.17-13.20.03:105][929]LogStall: Shutdown...
+[2023.08.17-13.20.03:110][929]LogStall: Shutdown complete.
+[2023.08.17-13.20.03:154][929]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.03:154][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-13.20.03:232][929]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.03:232][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-13.20.03:269][929]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.03:269][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-13.20.03:324][929]LogSlate: Window 'WareHouse - Unreal Editor' being destroyed
+[2023.08.17-13.20.03:423][930]Cmd: QUIT_EDITOR
+[2023.08.17-13.20.03:423][930]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.08.17-13.20.03:427][930]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.08.17-13.20.03:427][930]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.08.17-13.20.03:427][930]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.08.17-13.20.03:429][930]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.03:430][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-13.20.03:430][930]LogWorld: UWorld::CleanupWorld for MainMap_Auto2, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.03:430][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-13.20.03:430][930]LogWorld: UWorld::CleanupWorld for MainMap_Auto3, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.03:430][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-13.20.03:436][930]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.08.17-13.20.03:438][930]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.08.17-13.20.04:467][930]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.08.17-13.20.04:467][930]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.08.17-13.20.04:467][930]LogAudio: Display: Audio Device unregistered from world 'MainMap'.
+[2023.08.17-13.20.04:467][930]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.08.17-13.20.04:480][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.17-13.20.04:482][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.17-13.20.04:503][930]LogAudio: Display: Audio Device Manager Shutdown
+[2023.08.17-13.20.04:507][930]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.08.17-13.20.04:507][930]LogExit: Preparing to exit.
+[2023.08.17-13.20.04:550][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.08.17-13.20.04:572][930]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:572][930]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:575][930]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:576][930]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:577][930]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.04:577][930]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.08.17-13.20.05:752][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:752][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:752][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:752][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:752][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:752][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:752][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:752][930]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.05:753][930]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.05:753][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:753][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:753][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:753][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:753][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:753][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:753][930]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.08.17-13.20.05:753][930]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.05:753][930]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.05:753][930]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-13.20.05:804][930]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.08.17-13.20.05:858][930]LogExit: Editor shut down
+[2023.08.17-13.20.05:861][930]LogExit: Transaction tracking system shut down
